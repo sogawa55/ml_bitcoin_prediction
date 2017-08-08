@@ -10,7 +10,7 @@
 * 学習用データと正解ラベルをセットで学習させ、予測用データで検証を行う
 * Scikit-learnを使用
 * 学習モデルはランダムフォレストを使用
-* データはcoindesk(https://www.coindesk.com/price/)からダウンロード
+* データはcoindesk (https://www.coindesk.com/price/) からダウンロード
 
 
 ## 実行環境
