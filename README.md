@@ -13,12 +13,12 @@
 * データはcoindesk (https://www.coindesk.com/price/) からダウンロード
 
 
-## 実行環境
+### 実行環境
 * python 3.6.0
 * Anaconda 3
 * Scikit-learn 0.18.2 (0.19以降だと動作しない可能性があります。)　
 * RandomForestClassifier
 
-## 参考
+### 参考
 http://kasoutuuka.org/scikit-learn
 
