@@ -85,5 +85,3 @@ print("予測結果の正解率：" + str(ac_score*100) + "%")
 print("正解データ：" + str(answer))
 print("予測結果の上昇率:"+ str(up_ratio) + "%")	
 print(cl_report)
-import sklearn
-print(sklearn.__version__)
