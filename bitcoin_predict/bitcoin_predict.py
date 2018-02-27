@@ -46,6 +46,7 @@ def prediction():
     predictions = result
     return predictions ,answer ,test_y
 
+#訓練用データの入れ物を用意
 train_X = []
 train_y = []
 # CSVデータを格納
